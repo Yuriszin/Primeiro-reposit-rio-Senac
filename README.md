@@ -1,2 +1,4 @@
-# Primeiro-reposit-rio-Senac
-Meu primeiro repositório com Git
+# Primeiro repositório Senac
+
+Syllas Gabriel Meu primeiro repositório com Git
+
